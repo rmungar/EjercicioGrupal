@@ -1,1 +1,1 @@
-data class Palabra()
+data class Palabra(val palabra: String)
